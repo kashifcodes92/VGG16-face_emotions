@@ -23,8 +23,6 @@ This project implements an emotion recognition system using **Transfer Learning*
 - Achieved >60% accuracy after fine-tuning
 - Model generalizes well on unseen faces
 
-## 📷 Example
-*(Add a training plot or prediction result image here)*
 
 ## ✅ How to Run
 1. Upload `FER2013` images in proper `/train` and `/test` folders.
